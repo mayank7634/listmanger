@@ -1,0 +1,23 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.item-list-manager{
+  padding: 20px;
+}
+.item-list-manager input{
+  padding: 10px;
+  width: 300px;
+}
+.item-list-manager button{
+  width: 320px;
+  padding: 10px;
+  margin: 10px 0px;
+  border: 1px solid rgb(25, 115, 25);
+  background-color: rgb(25, 115, 25);
+  color: white;
+  cursor: pointer;
+}
+.item-list-manager ul{
+  padding: 20px;
+}
